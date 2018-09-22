@@ -1,5 +1,7 @@
 package com.wu.crud.util;
 
+import com.wu.crud.service.EmpService;
+
 /**
  * <p>Description: </P>
  *
